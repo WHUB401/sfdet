@@ -1,0 +1,1 @@
+a = list(glob(join('/workspace/FakeAVLab/FakeAVCeleb/FakeVideo-RealAudio/African/men/id00076/00109_1/00000087','*.png')))
